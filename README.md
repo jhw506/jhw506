@@ -1,4 +1,4 @@
-### Hi there 👋
+# 프로그래머스 자율주행 데브코스 4기 👋
 
 <!--
 **jhw506/jhw506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 11/1
+## 10/31
+ot 진행 및 코딩테스트 연습
+
+## 11/1
 리눅스 기초 및 가상환경 설치
