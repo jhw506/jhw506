@@ -22,3 +22,4 @@ ot 진행 및 코딩테스트 연습
 
 ## 11/2
 unix 명령어
+unix signal
