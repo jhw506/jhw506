@@ -23,3 +23,6 @@ ot 진행 및 코딩테스트 연습
 ## 11/2
 unix 명령어
 unix signal
+
+## 11/3
+vim : 리눅스에세 가장 많이 쓰이는 텍스트 편집기 (visual editor)
