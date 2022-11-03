@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ot 진행 및 코딩테스트 연습
 
 ## 11/1
-리눅스 기초 및 가상환경 설치
+리눅스 기초 및 가상환경 설치 [vmware ubuntu 18.04]
 
 ## 11/2
 unix 명령어
